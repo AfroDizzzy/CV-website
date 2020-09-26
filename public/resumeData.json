@@ -1,0 +1,184 @@
+{
+  "main": {
+    "name":"David Rhode",
+    "occupation":"Software Developer",
+    "description":"Outcome focued, dependable, adaptable. A proven environmental engineer and engineering geologist turned software developer",
+    "image":"profilepic.jpg",
+    "bio":"Im an outdoor loving, rock climbing, trail running, fun loving guy that tries to bring joy and laughter into the lives of those around me. I love data and processing this data in new and interesting ways to give fresh insights on our world.",
+    "contactmessage":"Please contact me directly or use the handy dandy form below.",
+    "email": "davidrhode92@gmail.com",
+    "phone": "+64 021 873 199",
+    "address":{
+      "street":"(Your Street)",
+      "city":"Auckland",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.davidrhode.info",
+    "resumedownload":"https://docs.google.com/document/d/1xeJ8rz8FnFVipNOKui254pPrOVcZv9wVCMVxfY1pmFA/edit?usp=sharing",
+    "social":[
+
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/david-rhodé-522a7587",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/davidrhode92/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/AfroDizzzy",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Listed below are the langauges and platforms I have used over the years, with a few example projects following beneath.",
+    "education":[
+      {
+        "school":"The University of Auckland",
+        "degree":"Master of Science (with Honors)",
+        "graduated":"2016",
+        "major": "Earth Science",
+        "description":"Thesis Title - \"Spatial Changes in Lava Flow Properties & An Estimate of Lava Flow Rheology: Cases Studies from the Auckland Volcanic Field\" - Here I used geochemical and petrological data as inputs into modified Newtonian and non-Newtonian flow equations to calculate the three-phase viscosity of lava flows from Mt. St. John and Rangitoto. My research was funded via a scholarship from D.E.V.O.R.A."
+      },
+      {
+        "school":"The University of Auckland",
+        "degree":"Post Graduate Diploma in Science (with Merit)",
+        "graduated":"2015",
+        "major": "Geology",
+        "description":"This PgDipSci focused on solar and terrestral geochemistry, volcanology, G.I.S algorythms, and environmental computer modelling. It was as close to a G.I.S post-graduate major as could have been done."
+      },
+      {
+        "school":"The University of Auckland",
+        "degree":"Bachalor of Science",
+        "graduated":"2014",
+        "major": "Geology",
+        "description":"My geology degree focused on petrology, field mapping, and slope stability modeling (finite element analysis). It was supplemented by courses in G.I.S, and five papers in Psychology (focusing on behavourial science)."
+      },
+      {
+        "school":"The University of Auckland",
+        "degree":"Bachelor of Arts",
+        "graduated":"2014",
+        "major": "Philosophy, Logic & Computation (i.e. digital mathematics)",
+        "description":"While it seems strange that my Logic and Computation degree is under Arts, all papers were also avaliable under a BSc. These papers include those on modal logic, turing machines, natural deduction, set theory, and number theory. My Philosophy major focused on ethics and politcal philosophy."
+      }
+    ],
+    "work":[
+      {
+        "company":"Intern Software Developer",
+        "title":"Vivify",
+        "years":"July 2020 - September 2020",
+        "description":"My first commercial software developement experience. The project I helped developed involved the use of audio recognition algorythms and signal processing."
+      },{
+        "company":"Civil/Environmental Engineer",
+        "title":"Tektus Consultants Ltd",
+        "years":"August 2019 - November 2019",
+        "description":"Here I designed solutions for stormwater, wastewater, flooding mitagation solutions for commercial and residential developements. This includes final report writing, site works supervision, and project tendering. My tenure was short, with my resignation followed by a five month working holiday in The Netherlands."
+      },
+      {
+        "company":"Intermediate Developement Engineeer",
+        "title":"Auckland City Council",
+        "years":"March 2018 - July 2019",
+        "description":"This role saw me reviewing all aspects of engineering related to the Building Consent, Resource Consent, and Engineering Approval Application. I have reviewed over 400+ consents across Auckland City, Waiheke Island, and Great Barrier Island. These reviews include large scale projects such as the Americas Cup development, Central City Interceptor and other TBM tunneling projects, as well as various large scale seawall projects."
+      }
+      ,
+      {
+        "company":"Junior Developement Engineeer",
+        "title":"Auckland City Council",
+        "years":"July 2017 - Febuary 2018",
+        "description":"Joining initially to fill the gap in the divisions geotechnical knowledge, I was quickly promoted after only six months after adapting quickly to the role and showing adeptness for civil engineering principles. "
+      }
+      ,
+      {
+        "company":"Junior G.I.S Administator",
+        "title":"Auckland Transport",
+        "years":"April 2017 - June 2017",
+        "description":"A short-term contract to assist in the mapping and data capture of Auckland City's cycleways"
+      }
+    ],
+    "skills":[
+
+      {
+        "name":"Angular",
+        "image":"angularjs.svg"
+      },
+      {
+        "name":"React.js",
+        "image":"react.svg"
+      },
+      {
+        "name":"Javascript",
+        "image":"javascript.svg"
+      },
+      {
+        "name":"HTML5",
+        "image":"html5.svg"
+      },
+      {
+        "name":"CSS",
+        "image":"css3.svg"
+      },
+      {
+        "name":"Node.js",
+        "image":"nodejs.svg"
+      },
+      {
+        "name":"Bootstrap 4",
+        "image":"bootstrap.svg"
+      },
+      {
+        "name":"Java",
+        "image":"java.svg"
+      },
+      {
+        "name":"Python",
+        "image":"python.svg"
+      }
+  
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"DEVORA: Determining Volcanic Risk in Auckland",
+        "category":"Obtaining, processing, and analysising seismic data using python",
+        "image":"Devora.png",
+        "url":"https://devora.org.nz/"
+      },
+      {
+        "title":"Data 2 Statistics",
+        "category":"An Angular app designed to give stats not found in other Dota 2 statistics websites (i.e. dotabuff)",
+        "image":"dota2icon.jpg",
+        "url":"http://dota2-bucket.s3-website-ap-southeast-2.amazonaws.com/"
+      },
+      {
+        "title":"This CV website!",
+        "category":"A CV website modified from an existing React Template",
+        "image":"resume-website.jpg",
+        "url":"http://www.davidrhode.info"
+      },
+      {
+        "title":"Check out some of my code!",
+        "category":"includes some Codewars solutions",
+        "image":"git.png",
+        "url":"https://github.com/AfroDizzzy?tab=repositories"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"I wish I had asked from former colleagues for a testimonial or two... ",
+        "user":"David Rhode"
+      },
+      {
+        "text":"A pretty cool guy that does cool stuff.",
+        "user":"Bill Gates"
+      }
+    ]
+  }
+}

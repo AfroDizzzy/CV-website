@@ -1,0 +1,35 @@
+{
+  "name": "personalportfolio",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@tanem/svg-injector": "^8.0.57",
+    "acorn": "^7.3.1",
+    "acorn-jsx": "^5.2.0",
+    "jquery": "^3.5.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-ga": "^2.7.0",
+    "react-scripts": "^2.0.0",
+    "webpack": "^4.19.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "file-loader": "^6.0.0",
+    "install": "^0.13.0",
+    "npm": "^6.14.5",
+    "svg-inline-loader": "^0.8.2",
+    "webpack-cli": "^3.3.12"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
